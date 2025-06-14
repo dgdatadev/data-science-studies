@@ -1,4 +1,4 @@
-# Estudos em Ciência de Dados com Python
+# Estudos em Análise e Ciência de Dados com Python
 
 Este repositório reúne materiais produzidos durante meus estudos em **análise e ciência de dados** utilizando Python.  
 O objetivo é praticar e documentar conceitos fundamentais da área, desde a preparação dos dados até a modelagem básica.
